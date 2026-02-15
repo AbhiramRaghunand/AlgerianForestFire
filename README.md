@@ -125,9 +125,13 @@ User Input → Data Preprocessing → Trained ML Model → Prediction Output
 🔍 Performance Comparison
 
       Model	            Mean Absolute Error (MAE)	  R² Score
+      
       Linear Regression	    0.5170	                 0.9831
+      
       Ridge Regression	    0.5293	                 0.9824
+      
       Lasso Regression	    1.1258	                 0.9499
+      
       Elastic Net	          1.7704	                 0.8888
       
 🏆 Best Performing Model

@@ -9,23 +9,35 @@
 
 📊 Dataset Information
   The dataset contains meteorological records collected from two regions of Algeria:
+  
     - Bejaia region
     - Sidi Bel-Abbes region
 
 🔎 Features Include:
     - Temperature
+    
     - Relative Humidity (RH)
+    
     - Wind Speed (Ws)
+    
     - Rain
+    
     - FFMC
+    
     - DMC
+    
     - DC
+    
     - ISI
+    
     - BUI
+    
     - FWI
+    
     - Class (Fire / Not Fire)
 
 🧠 Machine Learning Pipeline
+  
   This project covers the full ML lifecycle:
   
   1️. Data Cleaning
